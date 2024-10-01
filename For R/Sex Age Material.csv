@@ -1,0 +1,73 @@
+Age,Sex,Sex_Age,Material,Entanglements,Total
+Adult,Female,Adult_Female,Packing band,62,174
+Juvenile,Female,Juvenile_Female,Packing band,,1
+Adult,Male,Adult_Male,Packing band,52,231
+Juvenile,Male,Juvenile_Male,Packing band,1,3
+Unknown,Male,Unknown_Male,Packing band,,1
+Adult,Unknown,Adult_Unknown,Packing band,2,12
+Juvenile,Unknown,Juvenile_Unknown,Packing band,17,59
+Unknown,Unknown,Unknown_Unknown,Packing band,4,21
+Adult,Female,Adult_Female,Flasher,3,174
+Juvenile,Female,Juvenile_Female,Flasher,,1
+Adult,Male,Adult_Male,Flasher,10,231
+Juvenile,Male,Juvenile_Male,Flasher,1,3
+Unknown,Male,Unknown_Male,Flasher,,1
+Adult,Unknown,Adult_Unknown,Flasher,,12
+Juvenile,Unknown,Juvenile_Unknown,Flasher,9,59
+Unknown,Unknown,Unknown_Unknown,Flasher,1,21
+Adult,Female,Adult_Female,Rubber band,2,174
+Juvenile,Female,Juvenile_Female,Rubber band,,1
+Adult,Male,Adult_Male,Rubber band,2,231
+Juvenile,Male,Juvenile_Male,Rubber band,,3
+Unknown,Male,Unknown_Male,Rubber band,,1
+Adult,Unknown,Adult_Unknown,Rubber band,1,12
+Juvenile,Unknown,Juvenile_Unknown,Rubber band,7,59
+Unknown,Unknown,Unknown_Unknown,Rubber band,,21
+Adult,Female,Adult_Female,Monofilament,5,174
+Juvenile,Female,Juvenile_Female,Monofilament,,1
+Adult,Male,Adult_Male,Monofilament,9,231
+Juvenile,Male,Juvenile_Male,Monofilament,,3
+Unknown,Male,Unknown_Male,Monofilament,,1
+Adult,Unknown,Adult_Unknown,Monofilament,,12
+Juvenile,Unknown,Juvenile_Unknown,Monofilament,1,59
+Unknown,Unknown,Unknown_Unknown,Monofilament,1,21
+Adult,Female,Adult_Female,Rope,1,174
+Juvenile,Female,Juvenile_Female,Rope,,1
+Adult,Male,Adult_Male,Rope,5,231
+Juvenile,Male,Juvenile_Male,Rope,,3
+Unknown,Male,Unknown_Male,Rope,,1
+Adult,Unknown,Adult_Unknown,Rope,,12
+Juvenile,Unknown,Juvenile_Unknown,Rope,,59
+Unknown,Unknown,Unknown_Unknown,Rope,,21
+Adult,Female,Adult_Female,Hook and Line,1,174
+Juvenile,Female,Juvenile_Female,Hook and Line,,1
+Adult,Male,Adult_Male,Hook and Line,,231
+Juvenile,Male,Juvenile_Male,Hook and Line,,3
+Unknown,Male,Unknown_Male,Hook and Line,,1
+Adult,Unknown,Adult_Unknown,Hook and Line,,12
+Juvenile,Unknown,Juvenile_Unknown,Hook and Line,1,59
+Unknown,Unknown,Unknown_Unknown,Hook and Line,1,21
+Adult,Female,Adult_Female,Netting,2,174
+Juvenile,Female,Juvenile_Female,Netting,,1
+Adult,Male,Adult_Male,Netting,1,231
+Juvenile,Male,Juvenile_Male,Netting,,3
+Unknown,Male,Unknown_Male,Netting,,1
+Adult,Unknown,Adult_Unknown,Netting,,12
+Juvenile,Unknown,Juvenile_Unknown,Netting,,59
+Unknown,Unknown,Unknown_Unknown,Netting,,21
+Adult,Female,Adult_Female,Scar,41,174
+Juvenile,Female,Juvenile_Female,Scar,1,1
+Adult,Male,Adult_Male,Scar,50,231
+Juvenile,Male,Juvenile_Male,Scar,,3
+Unknown,Male,Unknown_Male,Scar,,1
+Adult,Unknown,Adult_Unknown,Scar,,12
+Juvenile,Unknown,Juvenile_Unknown,Scar,13,59
+Unknown,Unknown,Unknown_Unknown,Scar,3,21
+Adult,Female,Adult_Female,Unknown,57,174
+Juvenile,Female,Juvenile_Female,Unknown,,1
+Adult,Male,Adult_Male,Unknown,102,231
+Juvenile,Male,Juvenile_Male,Unknown,1,3
+Unknown,Male,Unknown_Male,Unknown,1,1
+Adult,Unknown,Adult_Unknown,Unknown,9,12
+Juvenile,Unknown,Juvenile_Unknown,Unknown,11,59
+Unknown,Unknown,Unknown_Unknown,Unknown,11,21
